@@ -43,4 +43,4 @@ I'm a passionate Frontend Developer with experience in:
 ## 📫 Contact Me
 
 - 📧 Email: pinnida.sa@gmail.com  
-- 💼 LinkedIn: [pinnida-s-782a1723a](https://www.linkedin.com/in/pinnida-s-782a1723a/)
+- 💼 LinkedIn: [pinnida-s-782a1723a](https://www.linkedin.com/in/pinnida)
